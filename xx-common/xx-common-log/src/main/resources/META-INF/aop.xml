@@ -1,0 +1,8 @@
+<!--<aspectj>-->
+<!--    <aspects>-->
+<!--        <aspect name="com.xx.aspect.LogAspect"/>-->
+<!--    </aspects>-->
+<!--    <weaver options="-verbose -showWeaveInfo">-->
+<!--        <include within="com.xx.*"/>-->
+<!--    </weaver>-->
+<!--</aspectj>-->
