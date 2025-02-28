@@ -11,6 +11,7 @@
     <modules>
         <module>xx-parent</module>
         <module>xx-common</module>
+        <module>xx-service</module>
     </modules>
 
     <properties>
@@ -20,6 +21,7 @@
         <!--other-->
         <lombok.version>1.18.32</lombok.version>
         <slf4j.version>2.0.13</slf4j.version>
+        <java.version>17</java.version>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

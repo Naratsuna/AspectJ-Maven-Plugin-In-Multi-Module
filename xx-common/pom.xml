@@ -7,6 +7,7 @@
         <groupId>com.xx</groupId>
         <artifactId>AspectJ-Maven-Plugin-In-Multi-Module</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <artifactId>xx-common</artifactId>
